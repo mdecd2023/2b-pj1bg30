@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲 https://github.com/mdecd2023/2b-pj1bg30', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41023230 彭聖宗 \n 41023232 雲敬家 \n 倉儲 https://github.com/mdecd2023/2b-pj1bg30 \n', 'tags': '', 'url': 'About.html'}, {'title': 'Tutorial', 'text': '', 'tags': '', 'url': 'Tutorial.html'}]};
